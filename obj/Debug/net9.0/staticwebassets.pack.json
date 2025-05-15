@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/add-staff.html",
+      "PackagePath": "staticwebassets/add-staff.html"
+    },
+    {
+      "Id": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/cost-summary.html",
+      "PackagePath": "staticwebassets/cost-summary.html"
+    },
+    {
+      "Id": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/new-project.html",
+      "PackagePath": "staticwebassets/new-project.html"
+    },
+    {
+      "Id": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/project-list.html",
+      "PackagePath": "staticwebassets/project-list.html"
+    },
+    {
+      "Id": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/styles.css",
+      "PackagePath": "staticwebassets/styles.css"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ProjectCostEstimatorAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ProjectCostEstimatorAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.ProjectCostEstimatorAPI.props",
+      "PackagePath": "build\\ProjectCostEstimatorAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.ProjectCostEstimatorAPI.props",
+      "PackagePath": "buildMultiTargeting\\ProjectCostEstimatorAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.ProjectCostEstimatorAPI.props",
+      "PackagePath": "buildTransitive\\ProjectCostEstimatorAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

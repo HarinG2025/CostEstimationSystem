@@ -1,0 +1,64 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/add-staff.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\add-staff.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2904"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:18:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/add-staff.srw4u47pwy.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\add-staff.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"srw4u47pwy"},{"Name":"integrity","Value":"sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="},{"Name":"label","Value":"_content/ProjectCostEstimatorAPI/add-staff.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2904"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:18:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/cost-summary.bwy0q2e0tk.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cost-summary.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bwy0q2e0tk"},{"Name":"integrity","Value":"sha256-qzIwYRuB9\u002BNZ2hIfni573PjumeEo/vPA8o5lmwKswRc="},{"Name":"label","Value":"_content/ProjectCostEstimatorAPI/cost-summary.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1472"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qzIwYRuB9\u002BNZ2hIfni573PjumeEo/vPA8o5lmwKswRc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:18:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/cost-summary.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cost-summary.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qzIwYRuB9\u002BNZ2hIfni573PjumeEo/vPA8o5lmwKswRc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1472"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qzIwYRuB9\u002BNZ2hIfni573PjumeEo/vPA8o5lmwKswRc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:18:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/new-project.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\new-project.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qza242RXIv89tuwxva4PBZm20\u002B\u002BM03qzBEb1YnhCjOU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2998"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qza242RXIv89tuwxva4PBZm20\u002B\u002BM03qzBEb1YnhCjOU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 08:48:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/new-project.vzmtx7qxf3.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\new-project.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vzmtx7qxf3"},{"Name":"integrity","Value":"sha256-qza242RXIv89tuwxva4PBZm20\u002B\u002BM03qzBEb1YnhCjOU="},{"Name":"label","Value":"_content/ProjectCostEstimatorAPI/new-project.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2998"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qza242RXIv89tuwxva4PBZm20\u002B\u002BM03qzBEb1YnhCjOU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 08:48:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/project-list.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\project-list.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZJSQRITwIM1eVC/8WRq7ee\u002B5vTReXHD44IvyyNeB9Wo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1315"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ZJSQRITwIM1eVC/8WRq7ee\u002B5vTReXHD44IvyyNeB9Wo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:14:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/project-list.wxacu5wr3f.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\project-list.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wxacu5wr3f"},{"Name":"integrity","Value":"sha256-ZJSQRITwIM1eVC/8WRq7ee\u002B5vTReXHD44IvyyNeB9Wo="},{"Name":"label","Value":"_content/ProjectCostEstimatorAPI/project-list.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1315"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ZJSQRITwIM1eVC/8WRq7ee\u002B5vTReXHD44IvyyNeB9Wo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:14:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/styles.a6eyxlgl3a.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a6eyxlgl3a"},{"Name":"integrity","Value":"sha256-vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w="},{"Name":"label","Value":"_content/ProjectCostEstimatorAPI/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"457"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 08:27:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"457"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 08:27:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

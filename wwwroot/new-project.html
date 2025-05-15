@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Add New Project</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Add New Project</h1>
+  <form id="project-form">
+    <label>
+      Project Name:
+      <input type="text" id="project-name" required />
+    </label>
+    <br />
+
+    <label>
+      Assumed Hours:
+      <input type="number" id="assumed-hours" min="1" required />
+    </label>
+    <br />
+
+    <fieldset>
+      <legend>Select Team Members</legend>
+      <div id="staff-list">Loading staff...</div>
+    </fieldset>
+
+    <button type="submit">Create Project</button>
+    <a href="add-staff.html">Add Staff</a>
+  </form>
+
+  <script>
+    const staffListDiv = document.getElementById('staff-list');
+
+    async function loadStaff() {
+      try {
+        const res = await fetch('http://localhost:5121/api/staff');
+        if (!res.ok) throw new Error('Failed to load staff');
+        const staff = await res.json();
+        if (staff.length === 0) {
+          staffListDiv.textContent = 'No staff available. Add staff via API.';
+          return;
+        }
+        staffListDiv.innerHTML = '';
+        staff.forEach(s => {
+          const id = `staff-${s.id}`;
+          const checkbox = document.createElement('input');
+          checkbox.type = 'checkbox';
+          checkbox.id = id;
+          checkbox.value = s.id;
+
+          const label = document.createElement('label');
+          label.htmlFor = id;
+          label.textContent = `${s.name} (Salary: $${s.monthlySalary})`;
+
+          const div = document.createElement('div');
+          div.appendChild(checkbox);
+          div.appendChild(label);
+          staffListDiv.appendChild(div);
+        });
+      } catch (err) {
+        staffListDiv.textContent = 'Error loading staff';
+        console.error(err);
+      }
+    }
+
+    document.getElementById('project-form').addEventListener('submit', async e => {
+      e.preventDefault();
+      const name = document.getElementById('project-name').value.trim();
+      const assumedHours = parseInt(document.getElementById('assumed-hours').value);
+
+      // Get selected staff ids
+      const selectedStaff = [...document.querySelectorAll('#staff-list input[type=checkbox]:checked')]
+        .map(cb => parseInt(cb.value));
+
+      if (selectedStaff.length === 0) {
+        alert('Select at least one staff member');
+        return;
+      }
+
+      const project = {
+        name,
+        assumedHours,
+        staffIds: selectedStaff,
+      };
+
+      try {
+        const res = await fetch('http://localhost:5121/api/project', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(project),
+        });
+        if (!res.ok) throw new Error('Failed to create project');
+        alert('Project created successfully!');
+        window.location.href = 'project-list.html';
+      } catch (err) {
+        alert(err.message);
+      }
+    });
+
+    loadStaff();
+  </script>
+</body>
+</html>

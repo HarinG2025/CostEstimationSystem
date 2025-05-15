@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Projects</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Projects</h1>
+  <a href="new-project.html">Add New Project</a>
+  <ul id="project-list"></ul>
+
+  <script>
+    async function loadProjects() {
+      try {
+        const res = await fetch('http://localhost:5121/api/project');
+        if (!res.ok) throw new Error('Failed to fetch projects');
+        const projects = await res.json();
+        const ul = document.getElementById('project-list');
+        ul.innerHTML = '';
+
+        if (projects.length === 0) {
+          ul.innerHTML = '<li>No projects found</li>';
+          return;
+        }
+
+        projects.forEach(project => {
+          const li = document.createElement('li');
+          li.innerHTML = `
+            <strong>${project.name}</strong> — ${project.assumedHours} hours
+            <button onclick="viewCost(${project.id})">View Cost Summary</button>
+          `;
+          ul.appendChild(li);
+        });
+
+      } catch (err) {
+        alert(err.message);
+      }
+    }
+    
+    function viewCost(projectId) {
+      // Redirect to cost-summary.html with query string
+      window.location.href = `cost-summary.html?id=${projectId}`;
+    }
+
+    loadProjects();
+  </script>
+</body>
+</html>

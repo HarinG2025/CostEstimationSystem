@@ -1,0 +1,1722 @@
+{
+  "Version": 1,
+  "Hash": "N/UMuLeKKPCBY+bPVYPrNUsquRGrSwcQN6i99bMbaAs=",
+  "Source": "ProjectCostEstimatorAPI",
+  "BasePath": "_content/ProjectCostEstimatorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectCostEstimatorAPI/wwwroot",
+      "Source": "ProjectCostEstimatorAPI",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/9gk8fhrzmb-bwy0q2e0tk.gz",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "cost-summary#[.{fingerprint=bwy0q2e0tk}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/cost-summary.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fhtctb45a8",
+      "Integrity": "Q+lSzjRKX5dXw/XQk4k+rGjX60byDjyFoO1xsB8eKIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/cost-summary.html"
+    },
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/djv9s2p009-a6eyxlgl3a.gz",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "styles#[.{fingerprint=a6eyxlgl3a}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3bxluf88cm",
+      "Integrity": "35WOTOd+caln8ZqA49yrpRyLxKtMuFdbofMZ/8M6PKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/styles.css"
+    },
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/gx8ljm1mw8-wxacu5wr3f.gz",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "project-list#[.{fingerprint=wxacu5wr3f}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/project-list.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2u10o2r6zb",
+      "Integrity": "tmZ46QZJ0AKxqW09ItCR8cvmpHE0bh0tOlTPYQwrjUw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/project-list.html"
+    },
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/on8acwcp1w-vzmtx7qxf3.gz",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "new-project#[.{fingerprint=vzmtx7qxf3}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/new-project.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3q8ahaqo58",
+      "Integrity": "qwO4ibawc85lOV6eQO01z8plrw3IPlcOqm4UhFQnx2Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/new-project.html"
+    },
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "add-staff#[.{fingerprint=srw4u47pwy}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/add-staff.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "aujfy6pjnn",
+      "Integrity": "MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/add-staff.html"
+    },
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/add-staff.html",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "add-staff#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "srw4u47pwy",
+      "Integrity": "GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/add-staff.html"
+    },
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/cost-summary.html",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "cost-summary#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bwy0q2e0tk",
+      "Integrity": "qzIwYRuB9+NZ2hIfni573PjumeEo/vPA8o5lmwKswRc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/cost-summary.html"
+    },
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/new-project.html",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "new-project#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vzmtx7qxf3",
+      "Integrity": "qza242RXIv89tuwxva4PBZm20++M03qzBEb1YnhCjOU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/new-project.html"
+    },
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/project-list.html",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "project-list#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wxacu5wr3f",
+      "Integrity": "ZJSQRITwIM1eVC/8WRq7ee+5vTReXHD44IvyyNeB9Wo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/project-list.html"
+    },
+    {
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/styles.css",
+      "SourceId": "ProjectCostEstimatorAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/",
+      "BasePath": "_content/ProjectCostEstimatorAPI",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a6eyxlgl3a",
+      "Integrity": "vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "add-staff.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000916590284"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="
+        }
+      ]
+    },
+    {
+      "Route": "add-staff.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/add-staff.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="
+        }
+      ]
+    },
+    {
+      "Route": "add-staff.html.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU="
+        }
+      ]
+    },
+    {
+      "Route": "add-staff.srw4u47pwy.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000916590284"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "srw4u47pwy"
+        },
+        {
+          "Name": "label",
+          "Value": "add-staff.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="
+        }
+      ]
+    },
+    {
+      "Route": "add-staff.srw4u47pwy.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/add-staff.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "srw4u47pwy"
+        },
+        {
+          "Name": "label",
+          "Value": "add-staff.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="
+        }
+      ]
+    },
+    {
+      "Route": "add-staff.srw4u47pwy.html.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "srw4u47pwy"
+        },
+        {
+          "Name": "label",
+          "Value": "add-staff.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU="
+        }
+      ]
+    },
+    {
+      "Route": "cost-summary.bwy0q2e0tk.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/9gk8fhrzmb-bwy0q2e0tk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001538461538"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q+lSzjRKX5dXw/XQk4k+rGjX60byDjyFoO1xsB8eKIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qzIwYRuB9+NZ2hIfni573PjumeEo/vPA8o5lmwKswRc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwy0q2e0tk"
+        },
+        {
+          "Name": "label",
+          "Value": "cost-summary.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qzIwYRuB9+NZ2hIfni573PjumeEo/vPA8o5lmwKswRc="
+        }
+      ]
+    },
+    {
+      "Route": "cost-summary.bwy0q2e0tk.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/cost-summary.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qzIwYRuB9+NZ2hIfni573PjumeEo/vPA8o5lmwKswRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwy0q2e0tk"
+        },
+        {
+          "Name": "label",
+          "Value": "cost-summary.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qzIwYRuB9+NZ2hIfni573PjumeEo/vPA8o5lmwKswRc="
+        }
+      ]
+    },
+    {
+      "Route": "cost-summary.bwy0q2e0tk.html.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/9gk8fhrzmb-bwy0q2e0tk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q+lSzjRKX5dXw/XQk4k+rGjX60byDjyFoO1xsB8eKIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwy0q2e0tk"
+        },
+        {
+          "Name": "label",
+          "Value": "cost-summary.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q+lSzjRKX5dXw/XQk4k+rGjX60byDjyFoO1xsB8eKIQ="
+        }
+      ]
+    },
+    {
+      "Route": "cost-summary.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/9gk8fhrzmb-bwy0q2e0tk.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001538461538"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q+lSzjRKX5dXw/XQk4k+rGjX60byDjyFoO1xsB8eKIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qzIwYRuB9+NZ2hIfni573PjumeEo/vPA8o5lmwKswRc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qzIwYRuB9+NZ2hIfni573PjumeEo/vPA8o5lmwKswRc="
+        }
+      ]
+    },
+    {
+      "Route": "cost-summary.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/cost-summary.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qzIwYRuB9+NZ2hIfni573PjumeEo/vPA8o5lmwKswRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qzIwYRuB9+NZ2hIfni573PjumeEo/vPA8o5lmwKswRc="
+        }
+      ]
+    },
+    {
+      "Route": "cost-summary.html.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/9gk8fhrzmb-bwy0q2e0tk.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "649"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q+lSzjRKX5dXw/XQk4k+rGjX60byDjyFoO1xsB8eKIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q+lSzjRKX5dXw/XQk4k+rGjX60byDjyFoO1xsB8eKIQ="
+        }
+      ]
+    },
+    {
+      "Route": "new-project.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/on8acwcp1w-vzmtx7qxf3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000846740051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1180"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwO4ibawc85lOV6eQO01z8plrw3IPlcOqm4UhFQnx2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qza242RXIv89tuwxva4PBZm20++M03qzBEb1YnhCjOU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qza242RXIv89tuwxva4PBZm20++M03qzBEb1YnhCjOU="
+        }
+      ]
+    },
+    {
+      "Route": "new-project.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/new-project.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qza242RXIv89tuwxva4PBZm20++M03qzBEb1YnhCjOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qza242RXIv89tuwxva4PBZm20++M03qzBEb1YnhCjOU="
+        }
+      ]
+    },
+    {
+      "Route": "new-project.html.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/on8acwcp1w-vzmtx7qxf3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwO4ibawc85lOV6eQO01z8plrw3IPlcOqm4UhFQnx2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qwO4ibawc85lOV6eQO01z8plrw3IPlcOqm4UhFQnx2Y="
+        }
+      ]
+    },
+    {
+      "Route": "new-project.vzmtx7qxf3.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/on8acwcp1w-vzmtx7qxf3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000846740051"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1180"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwO4ibawc85lOV6eQO01z8plrw3IPlcOqm4UhFQnx2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qza242RXIv89tuwxva4PBZm20++M03qzBEb1YnhCjOU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vzmtx7qxf3"
+        },
+        {
+          "Name": "label",
+          "Value": "new-project.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qza242RXIv89tuwxva4PBZm20++M03qzBEb1YnhCjOU="
+        }
+      ]
+    },
+    {
+      "Route": "new-project.vzmtx7qxf3.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/new-project.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qza242RXIv89tuwxva4PBZm20++M03qzBEb1YnhCjOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vzmtx7qxf3"
+        },
+        {
+          "Name": "label",
+          "Value": "new-project.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qza242RXIv89tuwxva4PBZm20++M03qzBEb1YnhCjOU="
+        }
+      ]
+    },
+    {
+      "Route": "new-project.vzmtx7qxf3.html.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/on8acwcp1w-vzmtx7qxf3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwO4ibawc85lOV6eQO01z8plrw3IPlcOqm4UhFQnx2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vzmtx7qxf3"
+        },
+        {
+          "Name": "label",
+          "Value": "new-project.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qwO4ibawc85lOV6eQO01z8plrw3IPlcOqm4UhFQnx2Y="
+        }
+      ]
+    },
+    {
+      "Route": "project-list.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/gx8ljm1mw8-wxacu5wr3f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001503759398"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "664"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmZ46QZJ0AKxqW09ItCR8cvmpHE0bh0tOlTPYQwrjUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:14:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZJSQRITwIM1eVC/8WRq7ee+5vTReXHD44IvyyNeB9Wo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJSQRITwIM1eVC/8WRq7ee+5vTReXHD44IvyyNeB9Wo="
+        }
+      ]
+    },
+    {
+      "Route": "project-list.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/project-list.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZJSQRITwIM1eVC/8WRq7ee+5vTReXHD44IvyyNeB9Wo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:14:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJSQRITwIM1eVC/8WRq7ee+5vTReXHD44IvyyNeB9Wo="
+        }
+      ]
+    },
+    {
+      "Route": "project-list.html.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/gx8ljm1mw8-wxacu5wr3f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmZ46QZJ0AKxqW09ItCR8cvmpHE0bh0tOlTPYQwrjUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:14:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmZ46QZJ0AKxqW09ItCR8cvmpHE0bh0tOlTPYQwrjUw="
+        }
+      ]
+    },
+    {
+      "Route": "project-list.wxacu5wr3f.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/gx8ljm1mw8-wxacu5wr3f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001503759398"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "664"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmZ46QZJ0AKxqW09ItCR8cvmpHE0bh0tOlTPYQwrjUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:14:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZJSQRITwIM1eVC/8WRq7ee+5vTReXHD44IvyyNeB9Wo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxacu5wr3f"
+        },
+        {
+          "Name": "label",
+          "Value": "project-list.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJSQRITwIM1eVC/8WRq7ee+5vTReXHD44IvyyNeB9Wo="
+        }
+      ]
+    },
+    {
+      "Route": "project-list.wxacu5wr3f.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/project-list.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZJSQRITwIM1eVC/8WRq7ee+5vTReXHD44IvyyNeB9Wo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:14:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxacu5wr3f"
+        },
+        {
+          "Name": "label",
+          "Value": "project-list.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZJSQRITwIM1eVC/8WRq7ee+5vTReXHD44IvyyNeB9Wo="
+        }
+      ]
+    },
+    {
+      "Route": "project-list.wxacu5wr3f.html.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/gx8ljm1mw8-wxacu5wr3f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmZ46QZJ0AKxqW09ItCR8cvmpHE0bh0tOlTPYQwrjUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 09:14:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxacu5wr3f"
+        },
+        {
+          "Name": "label",
+          "Value": "project-list.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmZ46QZJ0AKxqW09ItCR8cvmpHE0bh0tOlTPYQwrjUw="
+        }
+      ]
+    },
+    {
+      "Route": "styles.a6eyxlgl3a.css",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/djv9s2p009-a6eyxlgl3a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003937007874"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"35WOTOd+caln8ZqA49yrpRyLxKtMuFdbofMZ/8M6PKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6eyxlgl3a"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w="
+        }
+      ]
+    },
+    {
+      "Route": "styles.a6eyxlgl3a.css",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6eyxlgl3a"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w="
+        }
+      ]
+    },
+    {
+      "Route": "styles.a6eyxlgl3a.css.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/djv9s2p009-a6eyxlgl3a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"35WOTOd+caln8ZqA49yrpRyLxKtMuFdbofMZ/8M6PKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6eyxlgl3a"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-35WOTOd+caln8ZqA49yrpRyLxKtMuFdbofMZ/8M6PKY="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/djv9s2p009-a6eyxlgl3a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003937007874"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"35WOTOd+caln8ZqA49yrpRyLxKtMuFdbofMZ/8M6PKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vg5DC2W4DjPB6drvZfvUgR/Ekm8PEcq/8DwF2vKsn1w="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/djv9s2p009-a6eyxlgl3a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"35WOTOd+caln8ZqA49yrpRyLxKtMuFdbofMZ/8M6PKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 08:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-35WOTOd+caln8ZqA49yrpRyLxKtMuFdbofMZ/8M6PKY="
+        }
+      ]
+    }
+  ]
+}

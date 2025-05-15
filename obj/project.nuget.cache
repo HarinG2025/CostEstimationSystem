@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6B0HFx1h5w=",
+  "success": true,
+  "projectFilePath": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/ProjectCostEstimatorAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/haringoonathilake/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/haringoonathilake/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

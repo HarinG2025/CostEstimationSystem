@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Cost Summary</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Project Cost Summary</h1>
+  <div id="cost-summary">Loading...</div>
+  <a href="project-list.html">Back to Projects</a>
+
+  <script>
+    function getQueryParam(param) {
+      return new URLSearchParams(window.location.search).get(param);
+    }
+
+    async function loadCostSummary() {
+      const id = getQueryParam('id');
+      if (!id) {
+        document.getElementById('cost-summary').textContent = 'Project ID not specified.';
+        return;
+      }
+
+      try {
+        const res = await fetch(`http://localhost:5121/api/project/${id}/cost`);
+        if (!res.ok) throw new Error('Failed to load cost summary');
+        const data = await res.json();
+
+        const html = `
+          <p><strong>Project:</strong> ${data.project}</p>
+          <p><strong>Assumed Hours:</strong> ${data.hours}</p>
+          <p><strong>Staff Cost:</strong> $${data.staffCost}</p>
+          <p><strong>Office Cost:</strong> $${data.officeCost}</p>
+          <p><strong>Total Cost:</strong> $${data.totalCost}</p>
+          <p><strong>Cost per Hour:</strong> $${data.costPerHour}</p>
+        `;
+
+        document.getElementById('cost-summary').innerHTML = html;
+      } catch (err) {
+        document.getElementById('cost-summary').textContent = err.message;
+      }
+    }
+
+    loadCostSummary();
+  </script>
+</body>
+</html>
