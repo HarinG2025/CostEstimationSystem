@@ -3,14 +3,14 @@
     <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/add-staff.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\add-staff.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2904"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:18:32 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1200"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00227Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 10:03:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/add-staff.srw4u47pwy.html">
+    <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/add-staff.kkj03orx08.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\add-staff.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"srw4u47pwy"},{"Name":"integrity","Value":"sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="},{"Name":"label","Value":"_content/ProjectCostEstimatorAPI/add-staff.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2904"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:18:32 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kkj03orx08"},{"Name":"integrity","Value":"sha256-7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw="},{"Name":"label","Value":"_content/ProjectCostEstimatorAPI/add-staff.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1200"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00227Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 10:03:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ProjectCostEstimatorAPI/cost-summary.bwy0q2e0tk.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\cost-summary.html'))</AssetFile>

@@ -17,7 +17,6 @@
 /Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/bin/Debug/net9.0/Microsoft.OpenApi.dll
 /Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/scopedcss/bundle/ProjectCostEstimatorAPI.styles.css
-/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz
 /Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/9gk8fhrzmb-bwy0q2e0tk.gz
 /Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/on8acwcp1w-vzmtx7qxf3.gz
 /Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/gx8ljm1mw8-wxacu5wr3f.gz
@@ -37,3 +36,5 @@
 /Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/ProjectCostEstimatorAPI.pdb
 /Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/ProjectCostEstimatorAPI.genruntimeconfig.cache
 /Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/ref/ProjectCostEstimatorAPI.dll
+/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/ProjectCostEstimatorAPI.sourcelink.json
+/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-kkj03orx08.gz

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N/UMuLeKKPCBY+bPVYPrNUsquRGrSwcQN6i99bMbaAs=",
+  "Hash": "CX+AewDzz0U9U+rq5NKPNmgUkBoSyB6k6CBKvvM/VEM=",
   "Source": "ProjectCostEstimatorAPI",
   "BasePath": "_content/ProjectCostEstimatorAPI",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/new-project.html"
     },
     {
-      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "Identity": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-kkj03orx08.gz",
       "SourceId": "ProjectCostEstimatorAPI",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ProjectCostEstimatorAPI",
-      "RelativePath": "add-staff#[.{fingerprint=srw4u47pwy}]?.html.gz",
+      "RelativePath": "add-staff#[.{fingerprint=kkj03orx08}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/add-staff.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "aujfy6pjnn",
-      "Integrity": "MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=",
+      "Fingerprint": "xaarvtisbl",
+      "Integrity": "6Z8/fPDSMjlYmCcAd7SAGAv6tgzfr/VfoAAv3igXAeU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/add-staff.html"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "srw4u47pwy",
-      "Integrity": "GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=",
+      "Fingerprint": "kkj03orx08",
+      "Integrity": "7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/add-staff.html"
@@ -230,12 +230,12 @@
   "Endpoints": [
     {
       "Route": "add-staff.html",
-      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-kkj03orx08.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000916590284"
+          "Quality": "0.001620745543"
         }
       ],
       "ResponseHeaders": [
@@ -245,15 +245,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1090"
+          "Value": "616"
         },
         {
           "Name": "ETag",
-          "Value": "\"MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=\""
+          "Value": "\"6Z8/fPDSMjlYmCcAd7SAGAv6tgzfr/VfoAAv3igXAeU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+          "Value": "Thu, 15 May 2025 10:03:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -273,13 +273,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\""
+          "Value": "W/\"7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="
+          "Value": "sha256-7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw="
         }
       ]
     },
@@ -294,7 +294,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2904"
+          "Value": "1200"
         },
         {
           "Name": "Content-Type",
@@ -302,11 +302,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\""
+          "Value": "\"7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+          "Value": "Thu, 15 May 2025 10:03:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -316,13 +316,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="
+          "Value": "sha256-7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw="
         }
       ]
     },
     {
       "Route": "add-staff.html.gz",
-      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-kkj03orx08.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -331,7 +331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1090"
+          "Value": "616"
         },
         {
           "Name": "Content-Type",
@@ -339,11 +339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=\""
+          "Value": "\"6Z8/fPDSMjlYmCcAd7SAGAv6tgzfr/VfoAAv3igXAeU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+          "Value": "Thu, 15 May 2025 10:03:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -361,18 +361,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU="
+          "Value": "sha256-6Z8/fPDSMjlYmCcAd7SAGAv6tgzfr/VfoAAv3igXAeU="
         }
       ]
     },
     {
-      "Route": "add-staff.srw4u47pwy.html",
-      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "Route": "add-staff.kkj03orx08.html",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-kkj03orx08.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000916590284"
+          "Quality": "0.001620745543"
         }
       ],
       "ResponseHeaders": [
@@ -382,15 +382,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1090"
+          "Value": "616"
         },
         {
           "Name": "ETag",
-          "Value": "\"MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=\""
+          "Value": "\"6Z8/fPDSMjlYmCcAd7SAGAv6tgzfr/VfoAAv3igXAeU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+          "Value": "Thu, 15 May 2025 10:03:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -410,13 +410,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\""
+          "Value": "W/\"7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "srw4u47pwy"
+          "Value": "kkj03orx08"
         },
         {
           "Name": "label",
@@ -424,12 +424,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="
+          "Value": "sha256-7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw="
         }
       ]
     },
     {
-      "Route": "add-staff.srw4u47pwy.html",
+      "Route": "add-staff.kkj03orx08.html",
       "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/wwwroot/add-staff.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -439,7 +439,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2904"
+          "Value": "1200"
         },
         {
           "Name": "Content-Type",
@@ -447,11 +447,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=\""
+          "Value": "\"7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+          "Value": "Thu, 15 May 2025 10:03:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -461,7 +461,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "srw4u47pwy"
+          "Value": "kkj03orx08"
         },
         {
           "Name": "label",
@@ -469,13 +469,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU="
+          "Value": "sha256-7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw="
         }
       ]
     },
     {
-      "Route": "add-staff.srw4u47pwy.html.gz",
-      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-srw4u47pwy.gz",
+      "Route": "add-staff.kkj03orx08.html.gz",
+      "AssetFile": "/Users/haringoonathilake/Documents/ProjectCostEstimatorAPI/obj/Debug/net9.0/compressed/vl8grhtong-kkj03orx08.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -484,7 +484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1090"
+          "Value": "616"
         },
         {
           "Name": "Content-Type",
@@ -492,11 +492,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU=\""
+          "Value": "\"6Z8/fPDSMjlYmCcAd7SAGAv6tgzfr/VfoAAv3igXAeU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 09:18:32 GMT"
+          "Value": "Thu, 15 May 2025 10:03:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -514,7 +514,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "srw4u47pwy"
+          "Value": "kkj03orx08"
         },
         {
           "Name": "label",
@@ -522,7 +522,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MpzsJWR7cL53HIkS9PvLRIUmv+caSLNRGi1oPz9z/nU="
+          "Value": "sha256-6Z8/fPDSMjlYmCcAd7SAGAv6tgzfr/VfoAAv3igXAeU="
         }
       ]
     },

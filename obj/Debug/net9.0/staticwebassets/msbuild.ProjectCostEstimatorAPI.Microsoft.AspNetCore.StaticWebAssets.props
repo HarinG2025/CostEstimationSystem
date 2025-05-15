@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>srw4u47pwy</Fingerprint>
-      <Integrity>GGMrJlWGAvHSrywTwxHv6vuz68J8yT644PBN9VZ8hkU=</Integrity>
+      <Fingerprint>kkj03orx08</Fingerprint>
+      <Integrity>7Glm6F/Lu7/u9jprUxTkXhHcVW6sAnMMxNB6ZBcIvIw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\add-staff.html'))</OriginalItemSpec>
